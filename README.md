@@ -3,8 +3,8 @@
 A game about making big numbers!  There are a variety of gameplay elements going on in this game, but this brief overview should provide some clarity. The current goal is to get to New Game+ by buying all abilities. [3.x]
 
 **List of Topics**
-- [General Tabs](#general-tabs)
-    1. [Tapper Page](#tapper-page)
+- General Tabs
+    1. [Tapper Tab](../General Tabs/Tapper Tab)
     2. [Panel Page](#panels)
     3. [Upgrade Page](#upgrades)
     4. [Module Page](#modules)
