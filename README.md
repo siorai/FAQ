@@ -1,42 +1,34 @@
 # Myriad
 ### _A General FAQ_
-A game about making big numbers!  There are a variety of gameplay elements going on in this game, but this brief overview should provide some clarity. The current goal is to get to New Game+ by buying all abilities. [3.x]
+A game about making big numbers!  There are a variety of gameplay elements going on in this game, but this brief overview should provide some clarity. 
+The current goal is to get to New Game+ by buying all abilities. [3.x]
 
-**List of Topics**
+**Topics**
 - General Tabs
     1. [Tapper Tab](/General%20Tabs/Tapper%20Tab.md)
-    2. [Panel Page](#panels)
-    3. [Upgrade Page](#upgrades)
-    4. [Module Page](#modules)
-    5. [Refinery Page](#refinery)
-    6. [Equipment](#equipment)
-    7. [Ability Deck](#ability-deck)
-    8. [Rebirth](#rebirth)
+    2. [Panel Tab](/General%20Tabs/Panel%20Tab.md)
+    3. [Upgrade Tab](/General%20Tabs/Upgrade%20Tab.md)
+    4. [Module Tab](/General%20Tabs/Module%20Tab.md)
+    5. [Refinery Tab](/General%20Tabs/Refinery%20Tab.md)
+    6. [Equipment Tab](/General%20Tabs/Equipment%20Tab.md)
+    7. [Ability Deck](/General%20Tabs/Ability%20Deck.md)
+    8. [Rebirth](/General%20Tabs/Rebirth.md)
 
-- [Gameplay Guide](#gameplay-guide)
-    1. [New Game](#new-game)
-    2. [Early Game](#early-game)
-    3. [Mid Game](#mid-game)
-    4. [Late Game](#late-game) \**3.x End Game*
-    5. [End Game](#end-game) \**Coming in 4.0*
+- Gameplay Guide
+    1. [New Game](/Gameplay%20Guide/New%20Game.md)
+    2. [Early Game](/Gameplay%20Guide/Early%20Game.md)
+    3. [Mid Game](/Gameplay%20Guide/Mid%20Game.md)
+    4. [Late Game](/Gameplay%20Guide/Late%20Game.md) \**3.x End Game*
+    5. [End Game](/Gameplay%20Guide/End%20Game.md) \**Coming in 4.0*
 
-- [Other](#other)
-    1. [Settings](#settings)
-    2. [Stats](#stats)
+- Other
+    1. [Settings](/Other/Settings.md)
+    2. [Stats](/Other/Stats.md)
+
+[Back](/Other/Stats.md) | [Next](/General%20Tabs/Tapper%20Tab.md)
+
 
 # General Tabs
-### Tapper Page
-The main screen. This is where you will tap for profit and collect chests. As you continue to tap, you will see a multiplier that will grow. Initially this only affects your tap profit but can later affect other features. Occasionally, you will see critical hits that provide bonus currency. This will build your basic currency. On this screen you will see pop-ups that include daily gifts, random chests, your taps per second (at the bottom) and a minimized version of your panels. 
-
-
-Chests:
-![Chest Sprites](https://user-images.githubusercontent.com/13612927/116929504-bf639100-ac1b-11eb-8f32-a09cdbc525c4.png)
-
-| Chest Profits  | White | Green  | Blue | Purple  | Red |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Cash  | 1hr  | 2hr  | 3hr  | 4hr  | 5hr  |
-| Credits  | x20-25  | x26-30  | x31-40  | x41-50  | x51-100  |
-| Equipment  | 5%  | 10%  | 15%  | 20%  | 30%  |
 
 ### Panels
 Swiping left will bring you to the panels screen. On this screen you can click on your panels to have them run. Each panel earns an upgradeable amount of currency per iteration. Swiping left again will allow you to upgrade these panels. Certain milestones do things like increase speed or provide substantially more currency for that panel. At the bottom of this screen you can upgrade the amount of currency you gain per tap. Automation of these panels comes semi-randomly in the form of abilities, for which you will see a pop-up.
