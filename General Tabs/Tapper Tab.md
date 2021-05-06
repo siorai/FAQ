@@ -19,3 +19,6 @@ On this screen you will see pop-ups that include daily gifts, random chests, you
 
 [Home](../README.md)  
 [Back](../README.md) | [Next](Panel%20Tab.md)
+
+### Goals & milestones
+The last thing to note as a new player is the green checkmark. This opens a menu that displays goals and milestones that once achieved will provide various buffs. Note that you have to tap the completed goal to get the reward. 
