@@ -114,6 +114,7 @@ Module tier pretty much does the same thing execpt its +1200% under the mood
 gives 4 enhancables then 1 normal ability
 List all Set abilties you get at start
 List all abilities
+How to get xp for Enhancables
 
 ### Rebirth
 Talk about Time clamp
