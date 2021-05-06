@@ -4,7 +4,7 @@ A game about making big numbers!  There are a variety of gameplay elements going
 
 **List of Topics**
 - General Tabs
-    1. [Tapper Tab](/General%20Tabs/Tapper%20Tab)
+    1. [Tapper Tab](/General%20Tabs/Tapper%20Tab.md)
     2. [Panel Page](#panels)
     3. [Upgrade Page](#upgrades)
     4. [Module Page](#modules)
