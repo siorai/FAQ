@@ -26,6 +26,8 @@ The current goal is to get to New Game+ by buying all abilities. [3.x]
     2. [Stats](/Other/Stats.md)
     3. [General Questions](/Other/General%20Questions.md) 
 
+##### !TODO: Add pictures!
+
 [Back](/Other/General%20Questions.md)  | [Next](/General%20Tabs/Tapper%20Tab.md)
 
 

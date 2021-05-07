@@ -1,10 +1,11 @@
 # Tapper Page
 The main screen. This is where you will tap for profit and collect chests. 
-As you continue to tap, you will see a multiplier that will grow. 
-Initially this only affects your tap profit but can later affect other features. 
-Occasionally, you will see critical hits that provide bonus currency. 
-This will build your basic currency. 
-On this screen you will see pop-ups that include daily gifts, random chests, your taps per second (at the bottom) and a minimized version of your panels.
+When you tap on the screen, A multiplier starts.
+As long as you tap this will grow up to x5*.
+Occasionally your taps can crit giving you a boost in profit
+On this Screen you will also see Daily Gifts, tps(Taps per Second, on bottom left) and a minimized version of your panels.
+
+\ * There is an enhancable that is multiplied into this value
 
 
 
@@ -17,8 +18,11 @@ On this screen you will see pop-ups that include daily gifts, random chests, you
 | Credits  | x20-25  | x26-30  | x31-40  | x41-50  | x51-100  |
 | Equipment  | 5%  | 10%  | 15%  | 20%  | 30%  |
 
-[Home](../README.md)  
-[Back](../README.md) | [Next](Panel%20Tab.md)
-
 ### Goals & milestones
-The last thing to note as a new player is the green checkmark. This opens a menu that displays goals and milestones that once achieved will provide various buffs. Note that you have to tap the completed goal to get the reward. 
+The last thing to note as a new player is the green checkmark. 
+This opens a menu that displays goals and milestones that once achieved will provide various buffs. 
+Note that you have to tap the completed goal to get the reward. 
+It can also be accessed by pushing the top right menu betton and then clicking the checkmark in the bottom right
+
+ 
+[Back](../README.md) | [Home](../README.md) | [Next](Panel%20Tab.md)
