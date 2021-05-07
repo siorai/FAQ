@@ -27,5 +27,5 @@ Late game you can have 3 per tab equipped.
 | Upgrade Rarity | Increases upgrade rarity by +3% per level |⭐⭐⬛⬛⬛ | Need 400 Perks to go up 1 rarity | 
 ✰ stars mean that there is a possibility for it to be that good but needs more testing
 
-[Home](../README.md)  
-[Back](Refinery%20Tab.md) | [Next](Ability%20Deck.md)
+
+[Back](Refinery%20Tab.md) | [Home](../README.md) | [Next](Ability%20Deck.md)

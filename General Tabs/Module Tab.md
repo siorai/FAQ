@@ -6,6 +6,6 @@ Note that there are abilities that affect the rarity of modules spawned.
 
 
 
-[Home](../README.md)  
-[Back](Upgrade%20Tab.md) | [Next](Refinery%20Tab.md)
+
+[Back](Upgrade%20Tab.md) | [Home](../README.md) | [Next](Refinery%20Tab.md)
 

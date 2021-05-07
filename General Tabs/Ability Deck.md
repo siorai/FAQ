@@ -106,5 +106,5 @@ gives 4 enhancables then 1 normal ability
 
 ##### !Talk about abilities unlock order!
 
-[Home](../README.md)  
-[Back](Equipment%20Tab.md) | [Next](Rebirth.md)
+
+[Back](Equipment%20Tab.md) | [Home](../README.md) | [Next](Rebirth.md)

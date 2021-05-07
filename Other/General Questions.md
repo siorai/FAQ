@@ -10,5 +10,5 @@ Types of money?
 - Credits (From Chests, refinery, & crits)
 - Units (From Rebirth)
 
-[Home](../README.md)  
-[Back](Stats.md) | [Next](../README.md) 
+
+[Back](Stats.md) | [Home](../README.md) | [Next](../README.md) 

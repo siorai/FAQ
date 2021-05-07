@@ -7,5 +7,5 @@ So striking a balance between purchasing new abilities and keeping enough units 
 
 ##### !Talk about Time clamp!
 
-[Home](../README.md)  
-[Back](Ability%20Deck.md) | [Next](../Gameplay%20Guide/New%20Game.md)
+
+[Back](Ability%20Deck.md) | [Home](../README.md) | [Next](../Gameplay%20Guide/New%20Game.md)

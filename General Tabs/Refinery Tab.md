@@ -8,5 +8,5 @@ The 4th and 5th refineries deal with units and credits and are explained by clic
 Later game you can unlock an ability called "Optimize Allocation".
 This automatically makes allocation trend towards all being of equal level.
 
-[Home](../README.md)  
-[Back](Module%20Tab.md) | [Next](Equipment%20Tab.md)
+
+[Back](Module%20Tab.md) | [Home](../README.md) | [Next](Equipment%20Tab.md)

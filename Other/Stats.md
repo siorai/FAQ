@@ -1,5 +1,5 @@
 # Stats
 Good Stuff
 
-[Home](../README.md)  
-[Back](Settings.md) | [Next](General%20Questions.md)
+
+[Back](Settings.md) | [Home](../README.md) | [Next](General%20Questions.md)
