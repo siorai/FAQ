@@ -1,5 +1,6 @@
 #General Questions
-Auto Tapper
+
+How do I get Auto Tapper?
 - Its a secret ;)
 
 How do you get xp for the Enhanceable ability ?
