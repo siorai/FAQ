@@ -24,7 +24,8 @@ Late game you can have 3 per tab equipped.
 | Tier Merge | adds a 1% chance per level for a module to increase its tier by +2 when a merge is triggered | ⭐⭐⭐⭐⬛ | Getting to 100% is need for late game | 
 | TPS | Increases tps by +1 per level | ⭐⭐⬛⬛⬛ | Its good when you have low TPS but you can get it from upgrades so |
 | Upgrade Level | increases upgrade level by +1 per level | ⭐⭐⭐⭐⭐ | Don't think this spawns anymore. Can make upgrades a lot better |
-| Upgrade Rarity | Increases upgrade rarity by +3% per level |⭐⭐⬛⬛⬛ | Need 400 Perks to go up 1 rarity | 
+| Upgrade Rarity | Increases upgrade rarity by +3% per level |⭐⭐⬛⬛⬛ | Need 400 Perks to go up 1 rarity |  
+
 ✰ stars mean that there is a possibility for it to be that good but needs more testing
 
 
