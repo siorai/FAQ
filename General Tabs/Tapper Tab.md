@@ -1,5 +1,6 @@
 # Tapper Page
-The main screen. This is where you will tap for profit and collect chests. 
+The main screen. This is where you will tap for profit and collect chests.  
+![Tapper Page](/Pictures/img_18.png)  
 When you tap on the screen, A multiplier starts.
 As long as you tap this will grow up to x5*.
 Occasionally your taps can crit giving you a boost in profit

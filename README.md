@@ -1,4 +1,6 @@
 # Myriad
+![Myriad Logo](/Pictures/Myriad%20Logo.png)
+
 ### _A General FAQ_
 A game about making big numbers!  There are a variety of gameplay elements going on in this game, but this brief overview should provide some clarity. 
 The current goal is to get to New Game+ by buying all abilities. [3.x]
