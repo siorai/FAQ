@@ -1,10 +1,23 @@
 # Tapper Page
 The main screen. This is where you will tap for profit and collect chests.  
-![Tapper Page](/Pictures/img_18.png)  
+<!--![Tapper Page](C:\Users\JayMc\Desktop\College\1%20-%20IT 252\Projects\FAQ\Pictures\img_18 Edit.png)-->
+![Tapper Page](/Pictures/img_18 Edit.png)
+1. Refinery Notification
+2. Profit
+3. Profit Per Tap
+4. Credits
+5. Chest Spawn area
+6. Tap Multiplier
+7. Auto Tap Profit
+8. Chest Notification
+9. Menu
+10. Panel Progress
+11. Goal Progress
+
+
 When you tap on the screen, A multiplier starts.
 As long as you tap this will grow up to x5*.
 Occasionally your taps can crit giving you a boost in profit
-On this Screen you will also see Daily Gifts, tps(Taps per Second, on bottom left) and a minimized version of your panels.
 
 \ * There is an enhancable that is multiplied into this value
 
@@ -18,6 +31,7 @@ On this Screen you will also see Daily Gifts, tps(Taps per Second, on bottom lef
 | Cash  | 1hr  | 2hr  | 3hr  | 4hr  | 5hr  |
 | Credits  | x20-25  | x26-30  | x31-40  | x41-50  | x51-100  |
 | Equipment  | 5%  | 10%  | 15%  | 20%  | 30%  |
+\ * Cash Values are currently incorrect. All spawn 3 to 5 mins
 
 ### Goals & milestones
 The last thing to note as a new player is the green checkmark. 
