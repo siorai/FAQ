@@ -1,6 +1,6 @@
 # Tapper Page
 The main screen. This is where you will tap for profit and collect chests.
-![Tapper Page](../Pictures/img_18 Edit.png)
+![Tapper Page](../Pictures/img_18%20Edit.png)
 1. Refinery Notification
 2. Profit
 3. Profit Per Tap
