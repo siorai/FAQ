@@ -1,11 +1,14 @@
 # Upgrades
-To the left of the main screen are upgrades. 
-These upgrades range from new abilities that you have to equip to base panel upgrades and more. 
-Upgrades are purchased with credits, which are a separate currency. 
-Some abilities must be equipped from the ability deck in the hamburger menu at the top right of the screen. 
-Others (such as panel speed, panel growth etc) are automatically applied when you purchase them on this screen.
 
-##### !Talk about Upgrade Types!
+Swiping right from the home screen will bring you to upgrade screen. 
+
+![Panel Cycles](../Pictures/img_4.png)
+
+You can purchase upgrades that you randomly gained during the time you've played.  
+You can buy them with your credits with are shown on the left of the “view modifiers” button, or are shown temporarily on any screen after getting them.  
+You can get credits from selling your equipment, upgrades, or randomly by tapping.  
+There are upgrades including price reduction (multiplies price by given amount), speed upgrades (increase speed of the affected panel by x% of base speed), profit (increase panel income by a given % amount), potential units(increase potential units by % amount), taps per second or tps for short (increase your taps per second), module boost (increase the multiplier by the given amount), rarity rate (increase the rarity of the modules). 
+I believe the rest of the upgrades are pretty self explanatory.
 
 ###Upgrade Rarities
 White: Common
