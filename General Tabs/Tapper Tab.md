@@ -39,4 +39,4 @@ Note that you have to tap the completed goal to get the reward.
 It can also be accessed by pushing the top right menu betton and then clicking the checkmark in the bottom right
 
  
-[Back](../README.md) | [Home](../README.md) | [Next](Panel%20Tab.md)
+[Back](../README.md) | [Home](../README.md) | [Next](Panel Tab.md)

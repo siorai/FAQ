@@ -23,4 +23,4 @@ You can see your boost per unit from the rebirth screen.
 ##### !Talk about Time clamp!
 
 
-[Back](Ability%20Deck.md) | [Home](../README.md) | [Next](../Gameplay%20Guide/New%20Game.md)
+[Back](Ability Deck.md) | [Home](../README.md) | [Next](../Gameplay%20Guide/New%20Game.md)

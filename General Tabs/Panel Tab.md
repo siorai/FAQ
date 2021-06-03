@@ -15,4 +15,4 @@ You can automate your panels by purchasing upgrade randomly found in the upgrade
 ##### !Talk about Starting Panels!
 ##### !Talk about enhancing panels!
 
-[Back](Tapper%20Tab.md) | [Home](../README.md) | [Next](Upgrade%20Tab.md)
+[Back](Tapper Tab.md) | [Home](../README.md) | [Next](Upgrade Tab.md)

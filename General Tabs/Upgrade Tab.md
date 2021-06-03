@@ -20,4 +20,4 @@ Red: Elite
 Aqua: Ultimate
 
   
-[Back](Panel%20Tab.md) | [Home](../README.md) | [Next](Module%20Tab.md)
+[Back](Panel Tab.md) | [Home](../README.md) | [Next](Module Tab.md)

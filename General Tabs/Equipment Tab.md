@@ -29,4 +29,4 @@ Late game you can have 3 per tab equipped.
 ✰ stars mean that there is a possibility for it to be that good but needs more testing
 
 
-[Back](Refinery%20Tab.md) | [Home](../README.md) | [Next](Ability%20Deck.md)
+[Back](Refinery Tab.md) | [Home](../README.md) | [Next](Ability Deck.md)

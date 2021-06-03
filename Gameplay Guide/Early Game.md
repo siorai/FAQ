@@ -2,4 +2,4 @@
 Getting all panels
 
 
-[Back](New%20Game.md) | [Home](../README.md) | [Next](Mid%20Game.md)
+[Back](New Game.md) | [Home](../README.md) | [Next](Mid Game.md)

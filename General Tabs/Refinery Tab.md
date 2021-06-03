@@ -9,4 +9,4 @@ Later game you can unlock an ability called "Optimize Allocation".
 This automatically makes allocation trend towards all being of equal level.
 
 
-[Back](Module%20Tab.md) | [Home](../README.md) | [Next](Equipment%20Tab.md)
+[Back](Module Tab.md) | [Home](../README.md) | [Next](Equipment Tab.md)

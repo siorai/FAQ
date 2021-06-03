@@ -2,4 +2,4 @@
 Good Stuff
 
 
-[Back](Settings.md) | [Home](../README.md) | [Next](General%20Questions.md)
+[Back](Settings.md) | [Home](../README.md) | [Next](General Questions.md)
