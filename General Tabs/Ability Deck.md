@@ -8,7 +8,7 @@ This is how you upgrade Enhanceable.
 ### Ability List
 | Ability Name  | Ability Cost | Ability Effect | Notes |
 | ------------- | ------------- | ------------- | ------------- |
-| Infinity | 20 | Allows numbers to exceed 309 digits long | Requires that you have reached E308 |
+| Infinity | 5 | Allows numbers to exceed 309 digits long | Requires that you have reached E308 |
 | Unit Boost+ | Enhanceable | Increases units earned from rebirths |
 | Unit Boost++ | Enhanceable | Exponentially increases units earned from rebirths | Requires Unit Boost maxed |
 | Panel Profit+ | Enhanceable | Increases all panel profit |
@@ -42,11 +42,8 @@ This is how you upgrade Enhanceable.
 | Auto Refine | 5 | The refinery will automatically complete any task thats available
 | Optimizer | 0 | Gives you the option to enable automatic optimized allocation for all refineries | Premium Gift from dev |
 | AP Utilizer | 4 | Increase boost per unit by .2 for any AP that isn't being used |
-| Lucky Strike | 7 | Increases the drop rate of credits |
-| Lucky Lucky | 5 | Moderately increases overall credit gain |
-| Fortunate | 0 | Slightly increases overall credit gain | Premium Gift from dev |
-| Jackpot | 3 | Increases the chance of more credits dropping | There are 2 of these |
-| Lottery | 7 | Greatly increases the chance of more credits dropping | 
+| Lucky Strike | 7 | Increases the drop rate of credits | Max level is ? |
+| Jackpot | 7 | Increases the chance of more credits dropping | Max level is ? |
 | Upgrades+ | 2 | Increases the average level of upgrades by +1 for every 100 purchased | 
 | Top Grade | 2 | Increases chance of higher rarity upgrades by 10% |
 | Top Grade | 3 | Increases chance of higher rarity upgrades by 15% |
@@ -58,9 +55,7 @@ This is how you upgrade Enhanceable.
 | No gift reset | 0 | Enables daily gifts to not reset to day 1 if you are gone for more then 1 day |
 | Give me more | 0 | Daily gift rewards increase by 3.33% with each gift collected | 
 | Rarity Merger | 7 | Increases rarity rate by x.01 for every 500 merges |
-| Automerger | 5 | Periodically merges two modules together |
-| Automerger+ | 3 | Reduces time between merges by 20% | Requires Automerger |
-| Automerger+ | 4 | Reduces time between merges by 20% | Requires Automerger |
+| Automerger | 5 | Periodically merges two modules together | Max level is 3 |
 | Fabrication | 2 | Increases the rate at which modules are created and automerged by 1 sec | There are 3 of these |
 | Fabrication | 0 | Increases the rate at which modules are created and automerged by 1 sec | Premium Gift from dev |
 | Tier Merger+ | 2 | When a module merges, adds a change it goes up 2 tiers |
@@ -96,15 +91,13 @@ This is how you upgrade Enhanceable.
 | Critical Rate+ | 3 | Increases all critical chance by 300% |
 | Super Criticals | 4 | Enables the ability to land super critical hits |
 | Superior Crit | 5 | Bursts from super crits will always be critical | Requires Super Criticals |
-| Burst+ | 3 | Increases the number of max bursts a super crit creates | Requires Super Criticals, there are 4 of these |
-| Burst++ | 5 | Increases the number of max bursts a super crit creates | Requires Super Criticals|
-| Burst+++ | 0 | Increases the number of max bursts a super crit creates | Premium Gift from dev, Requires Super Criticals|
+| Burst+ | 3 | Increases the number of max bursts a super crit creates | Max level is 10 |
 
 ##### Math Notes
 Module tier pretty much does the same thing execpt its +1200% under the mood
 gives 4 enhancables then 1 normal ability
 
 ##### !Talk about abilities unlock order!
-
+Automerger at E60?
 
 [Back](Equipment Tab.md) | [Home](../README.md) | [Next](Rebirth.md)
